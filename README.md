@@ -19,6 +19,7 @@ Program requires those additional libraries:
 -	numpy
 -	reliability
 -	csv
+
 It can be launched using command line and takes 3 to 4 arguments:
 1.	Initial event number (1-6)
 2.	Experience level (0-2) where 0 - unexperienced pilot before license exam, 1 – pilot after exam but with < 350 hours of flying, 2 experienced pilot with > 350 hours of flying
