@@ -1,7 +1,6 @@
 # Risk in glider starts
 #### Video Demo:  https://youtu.be/Yky1hlz4Aqs
 #### Description:
-Introduction
 Writing this program was a part of master’s thesis titled “Human factor’s influence in safety of glider take offs”. Thesis is written in polish language, so if you are familiar with it feel free to message me for the source! 
 Main goal of the project was to build a model for estimating risk in glider take offs. This program’s purpose is to simulate events according to drawn trees of events. It’s a command line program written in Python.
 Tree of events shows all the possible paths of event that occur after the initiating event marked as A(j) where j is it’s unique number.
