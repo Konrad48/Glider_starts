@@ -1,7 +1,7 @@
 # Risk in glider starts
 #### Video Demo:  https://youtu.be/Yky1hlz4Aqs
 #### Description:
-Writing this program was a part of my master’s thesis titled “Human factor’s influence in safety of glider take offs”. Thesis is written in polish language, so if you are familiar with it feel free to message me for the source! It was also submitted as my final project in CS50 Course.
+Writing this program was a part of my master’s thesis titled “Human factor’s influence in safety of glider take offs”. Thesis is written in polish language, so if you are familiar with it feel free to message me for the source! It was also submitted as my final project in CS50 Course.\
 Main goal of the project was to build a model for estimating risk in glider take offs. This program’s purpose is to simulate events according to drawn trees of events. It’s a command line program written in Python.
 Tree of events shows all the possible paths of event that occur after the initiating event marked as A(j) where j is it’s unique number.
 Reaction times of pilot, flight director, tow pilot and winch operator were modeled as random variables and characterized by Weibull distribution. Weibull distribution is similar to Normal distribution but additional parameters make it much more flexible. Three levels of experience were considered in the model, for each one different parameters of Weibull distribution were used. Each time variable has it’s mean time, estimated by an expert. Additionally in the A(1) event, other distributions: Uniform, Exponential and Normal were tested and are possible to set.
