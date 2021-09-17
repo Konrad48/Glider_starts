@@ -25,7 +25,7 @@ It can be launched using command line and takes 3 to 4 arguments:
 3.	Number of events to be simulated, with increasing the number the accuracy increases but also program’s running time
 4.	Optional parameter for changing Tp1 distribution in A(1): 1 - Weibull distribution, 2 - Uniform distribution, 3 – Exponential distribution, 4 – Normal distribution
 
-$python probab1.py initial event nr., experience level (0-2), no. simulations, distribution in A(1) (optional)
+python probab1.py initial event nr., experience level (0-2), no. simulations, distribution in A(1) (optional)
 
-Example:\
-$python probab1.py 1 0 100000 1
+#### Example:
+python probab1.py 1 0 100000 1
