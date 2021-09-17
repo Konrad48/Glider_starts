@@ -10,7 +10,8 @@ Time variables:
 -	tp2 - Glider pilot’s 2nd reaction time
 -	tk – Flight director’s reaction time
 -	th – Tow pilot’s reaction time
--	tw – Winch operator reaction time\
+-	tw – Winch operator reaction time
+
 Event trees are in the folder in form of pictures. On each branch there is a condition(s) that must be valid for certain path to occur or there are probabilities of certain events.
 Program runs, a given number of simulations generating random reaction times and events according to distributions. Then it returns a list of probabilities via print method except for events  A(2) and A(4). For these two events, program creates a .csv file with probabilities and dangers in function of height.
 Usage\
