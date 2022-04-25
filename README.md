@@ -1,4 +1,4 @@
-# Risk in glider starts
+# Risk in glider take-offs
 #### Video Demo:  https://youtu.be/Yky1hlz4Aqs
 #### Introduction:
 Writing this program was a part of my master’s thesis titled “Human factor’s influence in safety of glider take offs”. Thesis is written in polish language, so if you are familiar with it feel free to message me for the source! It was also submitted as my final project in CS50 Course.
